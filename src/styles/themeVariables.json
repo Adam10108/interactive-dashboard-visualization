@@ -1,0 +1,49 @@
+{
+  "borderRadius": {
+    "s": 12,
+    "m": 16,
+    "l": 24,
+    "xl": 100
+  },
+  "colors": {
+    "white": "#FFFFFF",
+    "primary": "#F7FAFC",
+    "border": {
+      "light": "#EDF2F7"
+    },
+    "text": {
+      "small": "#A0AEC0",
+      "active": "#11142D",
+      "light": "#425466",
+      "muted": "#718096",
+      "dark": "#27272E"
+    },
+    "divider": "#EDF2F7"
+  },
+  "fontSizes": {
+    "xs": "0.75rem",
+    "sm": "0.875rem",
+    "md": "1rem",
+    "lg": "1.125rem",
+    "xl": "1.25rem",
+    "2xl": "1.5rem",
+    "3xl": "1.75rem",
+    "4xl": "2.25rem",
+    "5xl": "3rem",
+    "6xl": "3.75rem",
+    "7xl": "4.5rem",
+    "8xl": "6rem",
+    "9xl": "8rem"
+  },
+  "fontWeights": {
+    "hairline": 100,
+    "thin": 200,
+    "light": 300,
+    "normal": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700,
+    "extrabold": 800,
+    "black": 900
+  }
+}
